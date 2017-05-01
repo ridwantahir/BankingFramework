@@ -1,0 +1,2 @@
+# BankingFramework
+This is a simple Banking Spring MVC application  in which I applied several design patterns(factory, command, facade, etc). In the project, I developed a framework from which two applications extend. the framework is under framework package. The two applications that extend features provided in the framework are Bank and Credit Card. they reside in their respective packages in the source folders. 
